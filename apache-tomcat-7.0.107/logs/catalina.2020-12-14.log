@@ -1,0 +1,154 @@
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Nom version serveur :              Apache Tomcat/7.0.107
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Serveur compilé :                  Nov 18 2020 12:18:55 UTC
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Version du serveur :               7.0.107.0
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Nom de l'OS :                      Mac OS X
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Version OS :                       10.15.4
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture :                     x86_64
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home :                        /Library/Java/JavaVirtualMachines/openjdk-14.jdk/Contents/Home
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Version JVM :                      14+36-1461
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Fournisseur de la JVM :            Oracle Corporation
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE :                    /Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME :                    /Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : -Djava.util.logging.config.file=/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/conf/logging.properties
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : -Djdk.tls.ephemeralDHKeySize=2048
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : -Dignore.endorsed.dirs=
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : -Dcatalina.base=/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : -Dcatalina.home=/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Argument de la ligne de commande : -Djava.io.tmpdir=/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/temp
+déc. 14, 2020 2:13:51 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path : [/Users/mthfr/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+déc. 14, 2020 2:13:51 PM org.apache.coyote.AbstractProtocol init
+INFO: Initialisation du gestionnaire de protocole ["http-bio-8080"]
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 481 ms
+déc. 14, 2020 2:13:51 PM org.apache.catalina.core.StandardService startInternal
+INFO: Démarrage du service [Catalina]
+déc. 14, 2020 2:13:51 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.107
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire d'application web [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/docs]
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Le déploiement du répertoire [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/docs] de l'application web s'est terminé en [195] ms
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire d'application web [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/manager]
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Le déploiement du répertoire [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/manager] de l'application web s'est terminé en [43] ms
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire d'application web [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/examples]
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Le déploiement du répertoire [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/examples] de l'application web s'est terminé en [153] ms
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire d'application web [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/ROOT]
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Le déploiement du répertoire [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/ROOT] de l'application web s'est terminé en [20] ms
+déc. 14, 2020 2:13:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire d'application web [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/jenkins]
+déc. 14, 2020 2:13:52 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+déc. 14, 2020 2:13:54 PM org.apache.catalina.startup.ContextConfig validateSecurityRoles
+WARNING: Le nom de rôle de sécurité [**] est utilisé dans un <auth-constraint> sans avoir été défini dans <security-role>
+déc. 14, 2020 2:13:54 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+déc. 14, 2020 2:13:54 PM hudson.WebAppMain contextInitialized
+INFO: Jenkins home directory: /Users/mthfr/.jenkins found at: $user.home/.jenkins
+déc. 14, 2020 2:13:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Le déploiement du répertoire [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/jenkins] de l'application web s'est terminé en [3 270] ms
+déc. 14, 2020 2:13:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire d'application web [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/host-manager]
+déc. 14, 2020 2:13:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Le déploiement du répertoire [/Users/mthfr/Documents/Projets/Java/apache-tomcat-7.0.107/webapps/host-manager] de l'application web s'est terminé en [27] ms
+déc. 14, 2020 2:13:55 PM org.apache.coyote.AbstractProtocol start
+INFO: Démarrage du gestionnaire de protocole ["http-bio-8080"]
+déc. 14, 2020 2:13:55 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3750 ms
+déc. 14, 2020 2:13:55 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+déc. 14, 2020 2:13:55 PM hudson.ClassicPluginStrategy createPluginWrapper
+INFO: Plugin workflow-aggregator.jpi is disabled
+déc. 14, 2020 2:13:55 PM hudson.ClassicPluginStrategy createPluginWrapper
+INFO: Plugin command-launcher.jpi is disabled
+déc. 14, 2020 2:13:55 PM hudson.ClassicPluginStrategy createPluginWrapper
+INFO: Plugin pipeline-build-step.jpi is disabled
+déc. 14, 2020 2:13:55 PM hudson.ClassicPluginStrategy createPluginWrapper
+INFO: Plugin gradle.jpi is disabled
+déc. 14, 2020 2:13:55 PM hudson.ClassicPluginStrategy createPluginWrapper
+INFO: Plugin pipeline-model-definition.jpi is disabled
+déc. 14, 2020 2:13:55 PM hudson.ClassicPluginStrategy createPluginWrapper
+INFO: Plugin pipeline-model-declarative-agent.jpi is disabled
+déc. 14, 2020 2:13:55 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+déc. 14, 2020 2:13:58 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+déc. 14, 2020 2:13:58 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+déc. 14, 2020 2:13:59 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+déc. 14, 2020 2:13:59 PM jenkins.InitReactorRunner$1 onAttained
+INFO: System config loaded
+déc. 14, 2020 2:13:59 PM jenkins.InitReactorRunner$1 onAttained
+INFO: System config adapted
+déc. 14, 2020 2:13:59 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+déc. 14, 2020 2:13:59 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Configuration for all jobs updated
+déc. 14, 2020 2:13:59 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Download metadata
+déc. 14, 2020 2:13:59 PM hudson.util.Retrier start
+INFO: Attempt #1 to do the action check updates server
+déc. 14, 2020 2:14:00 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.web.context.support.StaticWebApplicationContext@6b073e2e: display name [Root WebApplicationContext]; startup date [Mon Dec 14 14:14:00 CET 2020]; root of context hierarchy
+déc. 14, 2020 2:14:00 PM org.springframework.context.support.AbstractApplicationContext obtainFreshBeanFactory
+INFO: Bean factory for application context [org.springframework.web.context.support.StaticWebApplicationContext@6b073e2e]: org.springframework.beans.factory.support.DefaultListableBeanFactory@7c9ebab8
+déc. 14, 2020 2:14:00 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7c9ebab8: defining beans [authenticationManager]; root of factory hierarchy
+déc. 14, 2020 2:14:00 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.web.context.support.StaticWebApplicationContext@7cadee8c: display name [Root WebApplicationContext]; startup date [Mon Dec 14 14:14:00 CET 2020]; root of context hierarchy
+déc. 14, 2020 2:14:00 PM org.springframework.context.support.AbstractApplicationContext obtainFreshBeanFactory
+INFO: Bean factory for application context [org.springframework.web.context.support.StaticWebApplicationContext@7cadee8c]: org.springframework.beans.factory.support.DefaultListableBeanFactory@6d29820e
+déc. 14, 2020 2:14:00 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6d29820e: defining beans [filter,legacy]; root of factory hierarchy
+déc. 14, 2020 2:14:00 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+déc. 14, 2020 2:14:00 PM hudson.WebAppMain$3 run
+INFO: Jenkins is fully up and running
+déc. 14, 2020 2:14:05 PM hudson.model.DownloadService$Downloadable load
+INFO: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+déc. 14, 2020 2:14:06 PM hudson.model.DownloadService$Downloadable load
+INFO: Obtained the updated data file for hudson.tasks.Ant.AntInstaller
+déc. 14, 2020 2:14:06 PM hudson.model.DownloadService$Downloadable load
+INFO: Obtained the updated data file for hudson.tools.JDKInstaller
+déc. 14, 2020 2:14:06 PM hudson.util.Retrier start
+INFO: Performed the action check updates server successfully at the attempt #1
+déc. 14, 2020 2:14:06 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Download metadata. 6 879 ms
+déc. 14, 2020 3:00:03 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 14, 2020 3:00:03 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 13 ms

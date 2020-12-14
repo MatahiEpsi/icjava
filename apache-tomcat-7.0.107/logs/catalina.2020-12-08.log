@@ -1,0 +1,122 @@
+déc. 08, 2020 12:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 12:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 1:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 1:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 0 ms
+déc. 08, 2020 2:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 2:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 3:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 3:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 4:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 4:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 2 ms
+déc. 08, 2020 4:35:18 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started telemetry collection
+déc. 08, 2020 4:35:18 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished telemetry collection. 9 ms
+déc. 08, 2020 5:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 5:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 6:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 6:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 0 ms
+déc. 08, 2020 7:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 7:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 7:55:51 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Workspace clean-up
+déc. 08, 2020 7:55:51 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Workspace clean-up. 10 ms
+déc. 08, 2020 8:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 8:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 9:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 9:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 2 ms
+déc. 08, 2020 10:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 10:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 2 ms
+déc. 08, 2020 11:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 11:03:54 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 12:03:54 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 12:03:54 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 1:03:54 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 1:03:54 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 2:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 2:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 2 ms
+déc. 08, 2020 3:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 3:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 2 ms
+déc. 08, 2020 4:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 4:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 4:55:12 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Download metadata
+déc. 08, 2020 4:55:12 PM hudson.util.Retrier start
+INFO: Attempt #1 to do the action check updates server
+déc. 08, 2020 4:55:17 PM hudson.model.DownloadService$Downloadable load
+INFO: Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+déc. 08, 2020 4:55:17 PM hudson.model.DownloadService$Downloadable load
+INFO: Obtained the updated data file for hudson.tasks.Ant.AntInstaller
+déc. 08, 2020 4:55:18 PM hudson.model.DownloadService$Downloadable load
+INFO: Obtained the updated data file for hudson.tools.JDKInstaller
+déc. 08, 2020 4:55:18 PM hudson.util.Retrier start
+INFO: Performed the action check updates server successfully at the attempt #1
+déc. 08, 2020 4:55:18 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Download metadata. 5 173 ms
+déc. 08, 2020 5:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 5:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 3 ms
+déc. 08, 2020 6:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 6:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 0 ms
+déc. 08, 2020 7:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 7:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 8:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 8:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 0 ms
+déc. 08, 2020 8:33:59 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Fingerprint cleanup
+déc. 08, 2020 8:33:59 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Fingerprint cleanup. 13 ms
+déc. 08, 2020 9:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 9:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 08, 2020 10:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 10:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 3 ms
+déc. 08, 2020 11:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 08, 2020 11:03:55 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms

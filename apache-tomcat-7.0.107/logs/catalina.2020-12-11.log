@@ -1,0 +1,48 @@
+déc. 11, 2020 12:03:58 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 11, 2020 12:03:58 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 2 ms
+déc. 11, 2020 1:03:58 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 11, 2020 1:03:58 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 11, 2020 2:03:59 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 11, 2020 2:03:59 AM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 1 ms
+déc. 11, 2020 2:58:40 AM org.apache.coyote.AbstractProtocol pause
+INFO: Le gestionnaire de protocole ["http-bio-8080"] est mis en pause
+déc. 11, 2020 2:58:40 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Arrêt du service [Catalina]
+déc. 11, 2020 2:58:40 AM jenkins.model.Jenkins cleanUp
+INFO: Stopping Jenkins
+déc. 11, 2020 2:58:40 AM jenkins.model.Jenkins$18 onAttained
+INFO: Started termination
+déc. 11, 2020 2:58:40 AM jenkins.model.Jenkins$18 onAttained
+INFO: Completed termination
+déc. 11, 2020 2:58:40 AM jenkins.model.Jenkins _cleanUpDisconnectComputers
+INFO: Starting node disconnection
+déc. 11, 2020 2:58:40 AM jenkins.model.Jenkins _cleanUpShutdownPluginManager
+INFO: Stopping plugin manager
+déc. 11, 2020 2:58:40 AM jenkins.model.Jenkins _cleanUpPersistQueue
+INFO: Persisting build queue
+déc. 11, 2020 2:58:40 AM jenkins.model.Jenkins _cleanUpAwaitDisconnects
+INFO: Waiting for node disconnection completion
+déc. 11, 2020 2:58:40 AM jenkins.model.Jenkins cleanUp
+INFO: Jenkins stopped
+déc. 11, 2020 2:58:40 AM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/jenkins] appears to have started a thread named [Computer.threadPoolForRemoting [#2]] but has failed to stop it. This is very likely to create a memory leak.
+déc. 11, 2020 2:58:40 AM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/jenkins] appears to have started a thread named [Timeout.interruptions [#1]] but has failed to stop it. This is very likely to create a memory leak.
+déc. 11, 2020 2:58:40 AM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/jenkins] appears to have started a thread named [Computer.threadPoolForRemoting [#3]] but has failed to stop it. This is very likely to create a memory leak.
+déc. 11, 2020 2:58:40 AM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: L'application web [/jenkins] a crée un ThreadLocal avec une clé de type [java.lang.ThreadLocal] (valeur [java.lang.ThreadLocal@739bcace]) et une valeur de type [org.acegisecurity.context.SecurityContextImpl] (valeur [org.acegisecurity.context.SecurityContextImpl@ffffffff: Null authentication]) mais ne l'a pas supprimé lorsqu'elle a été arrêtée, les threads seront graduellement renouvelés pour éviter une probable fuite de mémoire
+déc. 11, 2020 2:58:40 AM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: L'application web [/jenkins] a crée un ThreadLocal avec une clé de type [java.lang.ThreadLocal] (valeur [java.lang.ThreadLocal@739bcace]) et une valeur de type [org.acegisecurity.context.SecurityContextImpl] (valeur [org.acegisecurity.context.SecurityContextImpl@ffffffff: Null authentication]) mais ne l'a pas supprimé lorsqu'elle a été arrêtée, les threads seront graduellement renouvelés pour éviter une probable fuite de mémoire
+déc. 11, 2020 2:58:40 AM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: L'application web [/jenkins] a crée un ThreadLocal avec une clé de type [java.lang.ThreadLocal] (valeur [java.lang.ThreadLocal@739bcace]) et une valeur de type [org.acegisecurity.context.SecurityContextImpl] (valeur [org.acegisecurity.context.SecurityContextImpl@ffffffff: Null authentication]) mais ne l'a pas supprimé lorsqu'elle a été arrêtée, les threads seront graduellement renouvelés pour éviter une probable fuite de mémoire
+déc. 11, 2020 2:58:40 AM org.apache.coyote.AbstractProtocol stop
+INFO: Arrêt du gestionnaire de protocole ["http-bio-8080"]
+déc. 11, 2020 2:58:40 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destruction du gestionnaire de protocole ["http-bio-8080"]
