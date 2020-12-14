@@ -614,3 +614,6 @@
 127.0.0.1 - - [14/Dec/2020:14:47:34 +0100] "GET /jenkins/job/images/textarea-handle.gif HTTP/1.1" 404 605
 127.0.0.1 - - [14/Dec/2020:14:47:35 +0100] "GET /jenkins/job/images/textarea-handle.gif HTTP/1.1" 404 605
 127.0.0.1 - - [14/Dec/2020:14:47:35 +0100] "GET /jenkins/job/images/textarea-handle.gif HTTP/1.1" 404 605
+127.0.0.1 - - [14/Dec/2020:15:20:51 +0100] "GET /jenkins/job/images/textarea-handle.gif HTTP/1.1" 403 909
+127.0.0.1 - - [14/Dec/2020:15:20:52 +0100] "GET /jenkins/job/images/textarea-handle.gif HTTP/1.1" 403 909
+127.0.0.1 - - [14/Dec/2020:15:20:52 +0100] "GET /jenkins/job/images/textarea-handle.gif HTTP/1.1" 403 909
