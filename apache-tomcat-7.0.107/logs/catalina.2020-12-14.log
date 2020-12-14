@@ -152,3 +152,11 @@ déc. 14, 2020 3:00:03 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
 INFO: Started Periodic background build discarder
 déc. 14, 2020 3:00:03 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
 INFO: Finished Periodic background build discarder. 13 ms
+déc. 14, 2020 4:00:03 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 14, 2020 4:00:03 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 2 ms
+déc. 14, 2020 5:00:03 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Started Periodic background build discarder
+déc. 14, 2020 5:00:03 PM hudson.model.AsyncPeriodicWork lambda$doRun$0
+INFO: Finished Periodic background build discarder. 2 ms
